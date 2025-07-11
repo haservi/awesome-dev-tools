@@ -125,16 +125,16 @@ Table of Contents
 - [AppCleaner](https://freemacsoft.net/appcleaner): A lightweight and easy-to-use program that finds and cleanly removes all files associated with an application.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay): A display management tool for precise adjustment of external monitor settings (resolution, brightness, volume), including HiDPI/Retina modes.
 - [Bitwarden](https://bitwarden.com/download): A secure and easy-to-use open-source password manager with cross-platform synchronization.
+- [Command One](https://commander-one.com/): A file manager for macOS with dual-panel support. It offers convenient features such as connecting to various storage, including the cloud and FTP, managing compressed files, and quick file searches.
 - [Cyberduck](https://cyberduck.io/download): A client that can connect to various servers and cloud storage like FTP, SFTP, WebDAV, S3, and Google Cloud Storage.
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org): A powerful keyboard customizer for macOS, allowing key remapping and complex modifications.
 - [Keka](https://www.keka.io/ko): A file compression and decompression program for macOS, supporting 7z, RAR, ZIP, and more.
 - [Logitech Options+](https://www.logitech.com/ko-kr/software/logi-options-plus.html): Software to customize settings and enhance productivity for Logitech devices.
-- [QSpace](https://qspace.awehunt.com/en-us/index.html): A macOS multi-panel file manager for easy file movement, comparison, and various view options.
+- [OBS Studio](https://obsproject.com/download): Free and open-source broadcasting and screen recording software.
 - [Rectangle](https://rectangleapp.com): A window management program for easy adjustment of window size and position (free open-source alternative: Spectacle).
 - [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973): A fun system monitor displaying a running cat animation in the menu bar based on CPU usage.
 - [Snipaste](https://www.snipaste.com): A powerful screen capture and paste tool allowing you to pin captured images for reference.
 - [VLC Media Player](https://www.videolan.org/vlc/download-macosx.ko.html): A powerful free and open-source cross-platform media player that plays almost all multimedia files.
-- [OBS Studio](https://obsproject.com/download): Free and open-source broadcasting and screen recording software.
 
 ---
 

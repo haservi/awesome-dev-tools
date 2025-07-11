@@ -127,16 +127,16 @@
 - [AppCleaner](https://freemacsoft.net/appcleaner): 애플리케이션과 관련된 모든 파일을 찾아 깔끔하게 제거해주는 가볍고 사용하기 쉬운 프로그램입니다.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay): 외부 모니터의 해상도, 밝기, 볼륨을 세밀하게 조정할 수 있는 디스플레이 관리 도구입니다. HiDPI/Retina 모드도 지원합니다.
 - [Bitwarden](https://bitwarden.com/download): 안전하고 사용하기 쉬운 오픈소스 비밀번호 관리자입니다. 다양한 플랫폼에서 동기화 기능을 제공합니다.
+- [Command One](https://commander-one.com/): 듀얼 패널을 지원하는 macOS용 파일 관리자입니다. 클라우드와 FTP 등 다양한 저장소 연결, 압축 파일 관리, 빠른 파일 검색 등 편리한 기능을 제공합니다.
 - [Cyberduck](https://cyberduck.io/download): FTP, SFTP, WebDAV, S3, Google Cloud Storage 등 다양한 서버 및 클라우드 스토리지에 연결할 수 있는 클라이언트입니다.
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org): macOS용 강력한 키보드 커스터마이저입니다. 키 매핑을 변경하고 복잡한 수정을 적용할 수 있습니다.
 - [Keka](https://www.keka.io/ko): macOS용 파일 압축 및 해제 프로그램입니다. 7z, RAR, ZIP 등 다양한 포맷을 지원하며 사용하기 쉽습니다.
 - [Logitech Options+](https://www.logitech.com/ko-kr/software/logi-options-plus.html): 로지텍 마우스, 키보드 및 기타 장치의 설정을 사용자 정의하고 생산성을 높이는 소프트웨어입니다.
-- [QSpace](https://qspace.awehunt.com/en-us/index.html): macOS용 다중 패널 파일 관리자입니다. 여러 창을 동시에 열어 파일 이동과 비교가 쉽고, 탭 기능과 다양한 뷰 옵션을 제공합니다.
+- [OBS Studio](https://obsproject.com/download): 무료 오픈소스 방송 및 화면 녹화 프로그램입니다. 게임 방송, 강의 녹화 등 다양한 용도로 활용됩니다.
 - [Rectangle](https://rectangleapp.com): 화면 조절 프로그램으로, 단축키나 드래그를 통해 창의 크기와 위치를 간편하게 조절할 수 있습니다. (무료 오픈소스 대안: Spectacle)
 - [RunCat](https://apps.apple.com/kr/app/runcat/id1429033973): 메뉴 막대에 현재 CPU 사용량에 따라 달리는 고양이 애니메이션을 표시하는 재미있는 시스템 모니터입니다.
 - [Snipaste](https://www.snipaste.com): 강력한 화면 캡처 및 붙여넣기 기능을 제공하는 도구입니다. 캡처한 이미지를 화면에 고정해두고 참고하면서 작업할 수 있습니다.
 - [VLC Media Player](https://www.videolan.org/vlc/download-macosx.ko.html): 거의 모든 멀티미디어 파일을 재생할 수 있는 강력한 무료 오픈소스 크로스 플랫폼 미디어 플레이어입니다.
-- [OBS Studio](https://obsproject.com/download): 무료 오픈소스 방송 및 화면 녹화 프로그램입니다. 게임 방송, 강의 녹화 등 다양한 용도로 활용됩니다.
 
 ---
 
